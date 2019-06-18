@@ -1,4 +1,4 @@
-package com.example.goo.foodsapp.util;
+package com.example.goo.foodsapp.requests;
 
 /**
  * Created by Goo on 2019-06-18.

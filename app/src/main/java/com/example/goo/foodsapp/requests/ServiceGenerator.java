@@ -1,8 +1,5 @@
 package com.example.goo.foodsapp.requests;
 
-import android.provider.SyncStateContract;
-
-import com.example.goo.foodsapp.util.RecipeApi;
 import com.example.goo.foodsapp.util.constants;
 
 import retrofit2.Retrofit;
